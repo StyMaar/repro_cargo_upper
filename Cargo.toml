@@ -6,4 +6,4 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-lower= {git = "ssh://git@github.com/StyMaar/repro_cargo_lower", rev="29b8ca3"}
+lower= {git = "ssh://git@github.com/StyMaar/repro_cargo_lower", rev="3cd9c5c"}
